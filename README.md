@@ -1,0 +1,1 @@
+# Goldman-Sachs-stocks-prediction-with-MA-EMA-MACD-Bollinger-Bands-Fourier-transforms-ARIMA-XGBoost
